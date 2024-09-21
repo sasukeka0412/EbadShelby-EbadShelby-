@@ -1,7 +1,7 @@
 ## If you're tired, do it tired🎯
 
 # 💫 About Me:
-Working on my goal Tech Stack👌
+- Working on my future Tech Stack👌
 
 
 ## 🌐 Socials:
