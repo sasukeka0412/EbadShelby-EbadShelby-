@@ -1,4 +1,4 @@
-## If you're tired, do it tired🎯
+## One step at a time🎯
 
 # 💫 About Me:
 - Working on my future Tech Stack👌
