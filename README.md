@@ -1,4 +1,4 @@
-# "One step each day? Interesting..."
+# Dopamine? Interesting...
 
 # 💫 About Me:
 - Working on my future Tech Stack👌
