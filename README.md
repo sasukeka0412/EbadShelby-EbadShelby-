@@ -1,5 +1,3 @@
-# Dopamine? Interesting...
-
 # 💫 About Me:
 - Working on my future Tech Stack👌
 
