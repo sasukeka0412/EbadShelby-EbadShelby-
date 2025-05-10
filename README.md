@@ -1,4 +1,4 @@
-- # Modern Minimalist Code.
+- # Modern Minimalist Code
 
 
 ## 🌐 Socials:
