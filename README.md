@@ -1,5 +1,21 @@
-## 📓 Self Taught Software Developer | School? Only for Diploma 🤝
+## 📓 Self Taught Software Developer
 
+> ## School? Only for Diploma 👌
+
+<table>
+  <tr>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl1MW1sOTBwZjM1emZ4dmpsYzdxcDYybjR6M3dzcGJudWRvc3V0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif" width="400"><br>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2YxZjlwaDJoZGNkb2txbjdvb3VnZmFpOWwydGE1cGtlb2VlNmhqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GbIwskRsr94d8UV1KC/giphy.gif" width="400">
+    </td>
+    <td>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXIyM2pidWptMG10NHYzMnh0YXEwaTlscDlmdnNiZjdscXlxNDBoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/84SFZf1BKgzeny1WxQ/giphy.gif" width="400">
+    </td>
+  </tr>
+</table>
+
+- [ ] Fix checklist
+- [x] Revamp Profile
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yasser.c.ebad) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@stranger_ebad) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@stranger_ebad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ebadyasser123xd@gmail.com) 
