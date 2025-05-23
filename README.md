@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl1MW1sOTBwZjM1emZ4dmpsYzdxcDYybjR6M3dzcGJudWRvc3V0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif" width="400"><br>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2YxZjlwaDJoZGNkb2txbjdvb3VnZmFpOWwydGE1cGtlb2VlNmhqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GbIwskRsr94d8UV1KC/giphy.gif" width="400">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl1MW1sOTBwZjM1emZ4dmpsYzdxcDYybjR6M3dzcGJudWRvc3V0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif" width="380"><br>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2YxZjlwaDJoZGNkb2txbjdvb3VnZmFpOWwydGE1cGtlb2VlNmhqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GbIwskRsr94d8UV1KC/giphy.gif" width="380">
     </td>
     <td>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXIyM2pidWptMG10NHYzMnh0YXEwaTlscDlmdnNiZjdscXlxNDBoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/84SFZf1BKgzeny1WxQ/giphy.gif" width="400">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXIyM2pidWptMG10NHYzMnh0YXEwaTlscDlmdnNiZjdscXlxNDBoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/84SFZf1BKgzeny1WxQ/giphy.gif" width="380">
     </td>
   </tr>
 </table>
