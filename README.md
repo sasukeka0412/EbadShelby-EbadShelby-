@@ -16,6 +16,8 @@
 
 - [x] HTML
 - [x] CSS
+- [x] UI
+- [x] UX
 - [ ] JS
 - [ ] PHP
 - [ ] MYSQL
