@@ -1,5 +1,6 @@
 ## 📓 Self Taught Software Developer
 
+
 > ## School? Only for Diploma 👌
 
 <table>
