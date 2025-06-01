@@ -18,7 +18,7 @@
 - [x] HTML
 - [x] CSS
 - [x] UI | UX
-- [ ] Tailwind CSS
+- [ ] TAILWIND CSS
 - [ ] JS
 - [ ] PHP
 - [ ] MYSQL
