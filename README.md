@@ -1,4 +1,5 @@
 ## 📓 Self Taught Software Developer
+## 🔴 Core Skill: Action Pronto
 
 > ## School? Only for Diploma 👌
 
