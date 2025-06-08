@@ -19,8 +19,8 @@
 - [x] CSS
 - [x] UI | UX
 - [ ] DOING | TAILWIND CSS
-- [ ] DOING | Vue.js
 - [ ] JS
+- [ ] Vue.js
 - [ ] PHP
 - [ ] MYSQL
 
