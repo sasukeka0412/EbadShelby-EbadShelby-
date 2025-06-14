@@ -18,8 +18,8 @@
 - [x] HTML
 - [x] CSS
 - [x] UI | UX
-- [ ] DOING | TAILWIND CSS
-- [ ] JS
+- [x] TAILWIND CSS
+- [ ] DOING | JS
 - [ ] Vue.js
 - [ ] PHP
 - [ ] MYSQL
