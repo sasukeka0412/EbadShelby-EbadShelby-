@@ -1,7 +1,7 @@
 ## 📓 Self Taught Backend Developer
 
 
-> ## School? Only for Diploma 👌
+> ## Tutorial: Complete College
 
 <table>
   <tr>
