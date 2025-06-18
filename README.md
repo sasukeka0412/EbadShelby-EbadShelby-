@@ -1,7 +1,7 @@
 ## 📓 Self Taught Backend Developer
 
 
-> ## Tutorial: Complete College
+> ## Tutorial: Finish College
 
 <table>
   <tr>
