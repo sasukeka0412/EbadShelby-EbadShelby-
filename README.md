@@ -1,4 +1,4 @@
-## 📓 Self Taught Backend Developer
+## 📓 ST Backend Developer
 
 
 > ## Tutorial: Finish College
