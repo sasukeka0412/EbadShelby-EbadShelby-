@@ -1,7 +1,6 @@
-## 📓 ST Backend DEV.
+## 📓 Main Quest: ST Backend Dev.
 
-
-> ## Tutorial: Finish College
+> ## Side Quest: Finish College
 
 <table>
   <tr>
@@ -18,8 +17,8 @@
 - [x] HTML
 - [x] CSS
 - [x] UI | UX
-- [ ] DOING | PHP
-- [ ] DOING | MYSQL
+- [ ] PHP
+- [ ] MYSQL
 - [x] TAILWIND CSS
 - [ ] JS
 - [ ] REACT
