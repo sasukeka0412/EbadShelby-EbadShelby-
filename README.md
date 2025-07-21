@@ -2,6 +2,7 @@
 
 > ## Side Quest: Finish College
 
+
 <table>
   <tr>
     <td>
