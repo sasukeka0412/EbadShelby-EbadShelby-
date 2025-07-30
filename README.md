@@ -15,18 +15,10 @@
       <img src="https://github.com/user-attachments/assets/7a7e1c56-e4c5-4d2e-b2a0-89023aa35968" width="220"><br>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/f8ce57da-2995-4952-8f29-b3d5eedc82b1" width="380"><br>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <img src="https://github.com/user-attachments/assets/db6976e0-48d2-4a7d-ba14-18b4f333549f" width="200"><br>
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/56e750b0-3dfb-4c91-82ab-b416cffe034e" width="200"><br>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/d8a15495-015d-47a0-8b5c-100773017709" width="380"><br>
     </td>
   </tr>
 </table>
