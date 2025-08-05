@@ -35,7 +35,7 @@
 - [ ] VUE-->
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EbadShelby&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://github.com/user-attachments/assets/ca39a598-2eef-48f3-8e18-a76c232487b2" height="164"><br>
+<img src="https://github.com/user-attachments/assets/73af0c0f-3a75-46e7-ad28-a486e1e21b12"><br>
 
 ---
 ## 🌐 Socials:
