@@ -5,7 +5,7 @@
 > ## Side Quest: Finish College
 ---
 
-<img src="https://github.com/user-attachments/assets/ad6daaf1-1b2e-417c-8095-47b11a2a564b" />
+<img src="https://github.com/user-attachments/assets/ad6daaf1-1b2e-417c-8095-47b11a2a564b" alt="Status Window" />
 
 
 ---
@@ -19,5 +19,14 @@
 - [ ] REACT
 - [ ] VUE-->
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EbadShelby&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://github.com/user-attachments/assets/73af0c0f-3a75-46e7-ad28-a486e1e21b12"><br>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbadShelby&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/35edf0d0-f6d0-4e9a-8b36-7a16a3852d70" width="492" />
+    </td>
+  </tr>
+</table>
+
