@@ -5,7 +5,8 @@
 > ## Side Quest: Finish College
 ---
 
-<img src="https://github.com/user-attachments/assets/6fd41a3f-30a7-4e1c-a175-f973acc29de4">
+<img src="https://github.com/user-attachments/assets/ad6daaf1-1b2e-417c-8095-47b11a2a564b" />
+
 
 ---
 <!--[x] HTML
