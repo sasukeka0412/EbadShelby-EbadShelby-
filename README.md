@@ -1,23 +1,4 @@
-
-
----
-## 📓 Main Quest: ST Backend Dev.
-> ## Side Quest: Finish College
----
-
 <img src="https://github.com/user-attachments/assets/ad6daaf1-1b2e-417c-8095-47b11a2a564b" alt="Status Window" />
-
-
----
-<!--[x] HTML
-- [x] CSS
-- [x] UI | UX
-- [ ] PHP
-- [ ] MYSQL
-- [x] TAILWIND CSS
-- [ ] JS
-- [ ] REACT
-- [ ] VUE-->
 
 <table>
   <tr>
