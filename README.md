@@ -18,7 +18,7 @@
 - [ ] JS
 - [ ] REACT
 - [ ] VUE-->
-### 📊 GitHub Stats:
+
 <table>
   <tr>
     <td>
