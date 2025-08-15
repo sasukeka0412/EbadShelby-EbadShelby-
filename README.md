@@ -5,23 +5,7 @@
 > ## Side Quest: Finish College
 ---
 
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/d33c049b-fc4a-48d7-b777-bcb7c352b4e4">
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/7a7e1c56-e4c5-4d2e-b2a0-89023aa35968"><br>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/db6976e0-48d2-4a7d-ba14-18b4f333549f"><br>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/56e750b0-3dfb-4c91-82ab-b416cffe034e"><br>
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/user-attachments/assets/6fd41a3f-30a7-4e1c-a175-f973acc29de4">
 
 ---
 <!--[x] HTML
