@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/5e280534-9db5-4c4d-85d8-ba0fb52421e2" alt="Status Window"/>
+<img src="https://github.com/user-attachments/assets/cf9d6cfd-4df5-4280-9d09-6667b7642208" alt="Status Window"/>
+
 
 <table>
   <tr>
