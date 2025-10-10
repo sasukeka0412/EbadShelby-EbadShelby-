@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/edb971fc-552b-4532-8472-e30a742f6477" alt="Status Window"/>
+<img src="https://github.com/user-attachments/assets/4d3a599b-5e01-49c1-856f-485a5457a9df" alt="Status Window"/>
 
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=ebadshelby&theme=dark&hide_border=false)<br/>
@@ -6,12 +6,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ebadshelby&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
 
 
 
