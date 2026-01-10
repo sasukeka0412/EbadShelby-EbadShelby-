@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/0a018fd3-4e15-40f4-9c86-790d82e5ff8c" alt="Status Window"/>
+<img src="https://github.com/user-attachments/assets/196962cd-888d-462b-ad18-8ec4262193a6" alt="Status Window"/>
 
 <br>
 
@@ -7,7 +7,4 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ebadshelby&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-
-
 
