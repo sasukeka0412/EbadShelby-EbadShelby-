@@ -2,7 +2,7 @@
 
 <br>
 
-### Check out my coding activities. click here -> [![wakatime](https://wakatime.com/badge/user/c1d2f93e-d295-42dd-aff2-c934d76f77f7.svg)](https://wakatime.com/@c1d2f93e-d295-42dd-aff2-c934d76f77f7) <-
+### Coding Activities. [![wakatime](https://wakatime.com/badge/user/c1d2f93e-d295-42dd-aff2-c934d76f77f7.svg)](https://wakatime.com/@c1d2f93e-d295-42dd-aff2-c934d76f77f7)
 
 
 ## 🏆 GitHub Trophies
