@@ -8,3 +8,10 @@
 <br>
 
 ### Coding Activities [![wakatime](https://wakatime.com/badge/user/c1d2f93e-d295-42dd-aff2-c934d76f77f7.svg)](https://wakatime.com/@c1d2f93e-d295-42dd-aff2-c934d76f77f7)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EbadShelby&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=EbadShelby&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EbadShelby&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
