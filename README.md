@@ -2,7 +2,7 @@
 <br>
 
 ## Workstation 🐧
-<img width="846" height="540" alt="image" src="https://github.com/user-attachments/assets/b5701e34-09be-4315-87ff-a94b99d5f081" />
+<img width="846" alt="image" src="https://github.com/user-attachments/assets/e61d297d-7c84-4dad-b2a3-ee5d7be479ce" />
 
 
 <br>
@@ -14,5 +14,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=EbadShelby&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EbadShelby&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ### Coding Activities [![wakatime](https://wakatime.com/badge/user/c1d2f93e-d295-42dd-aff2-c934d76f77f7.svg)](https://wakatime.com/@c1d2f93e-d295-42dd-aff2-c934d76f77f7)
-
-
