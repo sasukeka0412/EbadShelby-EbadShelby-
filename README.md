@@ -2,8 +2,7 @@
 <br>
 
 ## Workstation 🐧
-<img width="846" alt="image" src="https://github.com/user-attachments/assets/e61d297d-7c84-4dad-b2a3-ee5d7be479ce" />
-
+<img width="846" alt="image" src="https://github.com/user-attachments/assets/6f8886e4-74c4-4c9c-a051-5003ae1d5197" />
 
 <br>
 
