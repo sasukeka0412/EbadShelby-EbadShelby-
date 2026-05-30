@@ -2,14 +2,9 @@
 <br>
 
 ## Workstation 🐧
-<img width="846" alt="image" src="https://github.com/user-attachments/assets/d416022d-d151-4651-9b9d-55b4cdd47f7b" />
+<img width="846" alt="image" src="https://github.com/user-attachments/assets/08aeb715-969b-4976-8fe1-bbc7a58c8aac" />
+<img width="846" alt="image" src="https://github.com/user-attachments/assets/1daee69e-4431-4460-8d88-29b452fced8c" />
 
 <br>
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EbadShelby&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EbadShelby&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EbadShelby&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ### Coding Activities [![wakatime](https://wakatime.com/badge/user/c1d2f93e-d295-42dd-aff2-c934d76f77f7.svg)](https://wakatime.com/@c1d2f93e-d295-42dd-aff2-c934d76f77f7)
