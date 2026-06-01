@@ -6,5 +6,3 @@
 <img width="846" alt="image" src="https://github.com/user-attachments/assets/1daee69e-4431-4460-8d88-29b452fced8c" />
 
 <br>
-
-### Coding Activities [![wakatime](https://wakatime.com/badge/user/c1d2f93e-d295-42dd-aff2-c934d76f77f7.svg)](https://wakatime.com/@c1d2f93e-d295-42dd-aff2-c934d76f77f7)
