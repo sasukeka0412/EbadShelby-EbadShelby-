@@ -2,6 +2,6 @@
 <br>
 
 ## Workstation 🐧
-<img width="846" alt="image" src="https://github.com/user-attachments/assets/b86c6c7d-1bdc-43ff-9885-ef7354483166" />
+<img width="846" alt="image" src="https://github.com/user-attachments/assets/c183dc67-dbbf-49b0-85aa-90c732b9912e" />
 
 <br>
