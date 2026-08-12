@@ -105,14 +105,14 @@
   </div>
 
   <div style={{ display:'flex', flexDirection:'column', marginLeft:168, gap:8, zIndex: 10 }}>
-    <div style={{ display:'flex', fontSize:38, fontWeight:800, color:'#ffffff', letterSpacing:'-1px', lineHeight:1 }}>
+    <div style={{ display:'flex', fontSize:42, fontWeight:800, color:'#ffffff', letterSpacing:'-1px', lineHeight:1 }}>
       {github?.user?.name || github?.user?.login || 'EbadShelby' || 'Name'}
     </div>
-    <div style={{ display:'flex', fontSize:15, color:'rgba(180,165,255,0.8)', fontWeight:400, letterSpacing:'0.3px' }}>
+    <div style={{ display:'flex', fontSize:18, color:'rgba(180,165,255,0.8)', fontWeight:400, letterSpacing:'0.3px' }}>
       Fullstack Web Developer
     </div>
     <div style={{
-      display:'flex', fontSize:13, fontStyle:'italic',
+      display:'flex', fontSize:15, fontStyle:'italic',
       color:'rgba(205,195,255,0.75)', marginTop:4, lineHeight:1.35
     }}>
       “Be in this world as if you're a stranger or a traveler.”
