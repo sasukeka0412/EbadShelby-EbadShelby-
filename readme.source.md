@@ -1,8 +1,8 @@
 
 
-```aura width=400 height=200 link="https://collectioneur.github.io/readme-aura/"
+```aura width=860 height=200 link="https://collectioneur.github.io/readme-aura/"
 <div style={{
-  width: '400px', height: '100%', background: '#08080c',
+  width: '100%', height: '100%', background: '#08080c',
   display: 'flex', alignItems: 'center', fontFamily: 'Inter',
   position: 'relative', overflow: 'hidden', borderRadius: 16,
   border: '1px solid rgba(110,80,220,0.18)'
@@ -44,7 +44,7 @@
       #glow-8 { animation: float-pulse 7s ease-in-out infinite; }
     `}</style>
 
-  <svg width="400" height="200" style={{ position: 'absolute', top: 0, left: 0 }}>
+  <svg width="860" height="200" style={{ position: 'absolute', top: 0, left: 0 }}>
     <defs>
       <radialGradient id="g1" cx="50%" cy="50%" r="50%">
         <stop offset="0%" stopColor="rgba(110,20,210,0.72)" />
@@ -97,22 +97,22 @@
   </svg>
 
   <div style={{
-    position: 'absolute', left: 24, top: 56, width: 88, height: 88,
-    borderRadius: 44, background: 'linear-gradient(135deg, #6622ee, #0088ff)',
+    position: 'absolute', left: 48, top: 52, width: 96, height: 96,
+    borderRadius: 48, background: 'linear-gradient(135deg, #6622ee, #0088ff)',
     display: 'flex', alignItems: 'center', justifyContent: 'center',
   }}>
-    <img src={github?.user?.avatarUrl ?? 'https://github.com/EbadShelby.png'} width={80} height={80} style={{ borderRadius: 40 }} />
+    <img src={github?.user?.avatarUrl ?? 'https://github.com/EbadShelby.png'} width={88} height={88} style={{ borderRadius: 44 }} />
   </div>
 
-  <div style={{ display:'flex', flexDirection:'column', marginLeft:132, paddingRight:16, gap:6, zIndex: 10 }}>
-    <div style={{ display:'flex', fontSize:26, fontWeight:800, color:'#ffffff', letterSpacing:'-0.5px', lineHeight:1 }}>
+  <div style={{ display:'flex', flexDirection:'column', marginLeft:168, gap:8, zIndex: 10 }}>
+    <div style={{ display:'flex', fontSize:38, fontWeight:800, color:'#ffffff', letterSpacing:'-1px', lineHeight:1 }}>
       {github?.user?.name || github?.user?.login || 'EbadShelby' || 'Name'}
     </div>
-    <div style={{ display:'flex', fontSize:13, color:'rgba(180,165,255,0.8)', fontWeight:400, letterSpacing:'0.2px' }}>
+    <div style={{ display:'flex', fontSize:15, color:'rgba(180,165,255,0.8)', fontWeight:400, letterSpacing:'0.3px' }}>
       Fullstack Web Developer
     </div>
     <div style={{
-      display:'flex', fontSize:11, fontStyle:'italic',
+      display:'flex', fontSize:13, fontStyle:'italic',
       color:'rgba(205,195,255,0.75)', marginTop:4, lineHeight:1.35
     }}>
       “Be in this world as if you're a stranger or a traveler.”
