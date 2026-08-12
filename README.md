@@ -1,11 +1,11 @@
 <table border="0">
   <tr>
-    <td valign="top" width="49%">
+    <td valign="top" width="48%">
       <a href="https://collectioneur.github.io/readme-aura/">
         <img src="./.github/assets/readme-aura-component-0-aebed471.svg" width="100%" alt="Profile Header" />
       </a>
     </td>
-    <td valign="top" width="51%">
+    <td valign="top" width="52%">
       <a href="https://git.io/awesome-stats-card">
         <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Ebadshelby?cardType=github&theme=github-dark&fontFamily=&preferLogin=false" width="100%" alt="Awesome Stats" />
       </a>
