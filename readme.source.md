@@ -111,16 +111,11 @@
     <div style={{ display:'flex', fontSize:13, color:'rgba(180,165,255,0.8)', fontWeight:400, letterSpacing:'0.2px' }}>
       Fullstack Web Developer
     </div>
-    <div style={{ display:'flex', gap:6, marginTop:4, flexWrap: 'wrap' }}>
-      {['Vue', 'Tailwind', 'Laravel', 'MySQL'].map(function(tag, i) {
-        return (
-          <div key={tag + '-' + i} style={{
-            display:'flex', padding:'3px 10px', borderRadius:20,
-            background:'rgba(80,40,220,0.18)', border:'1px solid rgba(100,70,240,0.32)',
-            color:'rgba(205,195,255,0.85)', fontSize:11, fontWeight:600,
-          }}>{tag}</div>
-        );
-      })}
+    <div style={{
+      display:'flex', fontSize:11, fontStyle:'italic',
+      color:'rgba(205,195,255,0.75)', marginTop:4, lineHeight:1.35
+    }}>
+      “Be in this world as if you're a stranger or a traveler.”
     </div>
   </div>
 </div>
