@@ -127,9 +127,6 @@
     { label: 'Repos', value: String(github.stats.totalRepos), color: '#a78bfa' },
     { label: 'Stars', value: String(github.stats.totalStars), color: '#60a5fa' },
     { label: 'Commits', value: String(github.stats.totalCommits), color: '#f59e0b' },
-    { label: 'Total PRs', value: String(github.stats.totalPRs), color: '#34d399' },
-    { label: 'Total Issues', value: String(github.stats.totalIssues), color: '#f472b6' },
-    { label: 'Contributed To', value: String(github.stats.contributedTo), color: '#38bdf8' },
   ];
 
   return (
