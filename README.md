@@ -6,4 +6,4 @@
 ![](https://github-readme-stats.shion.dev/api?username=Ebadshelby&theme=holi&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 ## Workstation - Fedora Linux
-<img alt="image" src="https://github.com/user-attachments/assets/dcbe8a48-54c7-4c60-b567-6d0e7ba90d65" />
+<img alt="image" src=".github/assets/linux.png" />
