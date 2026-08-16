@@ -125,8 +125,8 @@
 (function() {
   var stats = [
     { label: 'Repos', value: String(github.stats.totalRepos), color: '#a78bfa' },
-    { label: 'Stars', value: String(github.stats.totalStars), color: '#60a5fa' },
-    { label: 'Commits', value: String(github.stats.totalCommits), color: '#f59e0b' },
+    { label: 'Stars', value: String(github.stats.totalStars), color: '#f59e0b' },
+    { label: 'Commits', value: String(github.stats.totalCommits), color: '#60a5fa' },
   ];
 
   return (
